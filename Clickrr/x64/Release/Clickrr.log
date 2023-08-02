@@ -1,0 +1,10 @@
+﻿  Clickrr.cpp
+C:\Users\ZRD\source\repos\JanuszClicker\Clickrr\Clickrr.cpp(30,56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ZRD\source\repos\JanuszClicker\Clickrr\Clickrr.cpp(31,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ZRD\source\repos\JanuszClicker\Clickrr\Clickrr.cpp(32,62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ZRD\source\repos\JanuszClicker\Clickrr\Clickrr.cpp(63,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1412 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Clickrr.vcxproj -> C:\Users\ZRD\source\repos\JanuszClicker\x64\Release\Clickrr.exe
